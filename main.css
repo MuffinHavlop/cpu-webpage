@@ -1,0 +1,32 @@
+body{
+    background-image: url("toc-do-cpu-la-gi.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    border-style: inset;
+    border-width: 5px;
+    border-color: whitesmoke;
+    color: black;
+    background-color: rgb(215, 224, 250);
+    width: 130px;
+    height: 40px;
+}
+h2{
+   color: black;
+   border-style: inset ;
+   border-width: 5px;
+   border-color: blanchedalmond;
+   background-color: rgb(215, 224, 250);
+}
+#model{
+    color: black;
+   border-style: inset ;
+   border-width: 5px;
+   border-color: blanchedalmond;
+   background-color: rgb(215, 224, 250);
+   width: 260px;
+   height: 30px;
+}
